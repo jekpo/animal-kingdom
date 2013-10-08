@@ -1,4 +1,3 @@
-animal-kingdom
-==============
+## JAVA PRACTICE FOR ANIMAL KINGDOM
 
 Animal Kingdom
