@@ -27,6 +27,26 @@ For interfaces that require getters and setters, make sure that the properties a
 
 Following the example in the class animal.kingdom.stage.AflacOnStage
 
+```java
+package animal.kingdom.stage;
+
+import animal.kingdom.animals.Duck;
+
+public class AflacOnStage {
+
+    public static void main(String[]args) {
+
+        Duck runner1 = new Duck();
+        Parrot flyer1 = new Parrot();
+        Tilapia swimmer1 = new Tilapia();
+
+        System.out.println(runner1.run());
+        System.out.println(swimmer1.run());
+        System.out.println(flyer1.run());
+    }
+}
+```
+
 Create a class called Question2Stage in the animal.kingdom.stage package for all classes created in Q1 and:
 
 Inside the main() function of this class
@@ -36,4 +56,9 @@ Inside the main() function of this class
 * Print out the return value of the fly() method for all classes that implement the Flyer interface.
 
 Run the class as a Java application to see the results.
+
+In your own words, please describe why each of the methods are doing what they are doing on the screen
+
+
+
 
