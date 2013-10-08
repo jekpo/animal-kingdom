@@ -1,4 +1,4 @@
-## HOMEWORK QUESTIONS 1
+## HOMEWORK 1 QUESTIONS
 
 ### (Q1) Adding Additional Animals
 
