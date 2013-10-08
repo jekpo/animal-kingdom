@@ -19,6 +19,8 @@ For example Flamingo will extend the Bird class and implement the Swimmer, Runne
 
 You can follow other examples in the animal.kingdom.animals package.
 
+You just have to right-click on the target package and then create a class in there.
+
 Pay attention to how the classes must implement methods from the Interfaces.
 
 ```java
